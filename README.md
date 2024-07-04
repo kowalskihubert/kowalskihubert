@@ -95,7 +95,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskihubert&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalskihubert&hide_border=true&layout=compact&langs_count=8&hide=html,jupyter%20notebook" align="center" /></div>
 
 <br/>  
 
